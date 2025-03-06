@@ -7,5 +7,3 @@
 - **practice**: Random practice of mine
 - **datasets**: Data used for assignments and projects
 
-## Figure
-![Example Image](images/example.png)
